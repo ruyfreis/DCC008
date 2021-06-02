@@ -1,1 +1,1 @@
-# DCC008 - Cálculo NUmérico
+# DCC008 - Cálculo Numérico
